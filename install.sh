@@ -8,10 +8,10 @@ read
 
 # source variables
 url="https://logiclx.humnet.ucla.edu/auto_remote/desktop"
-pkgver="20161225"
+pkgver="20180112"
 package="Logic2010_mac_$pkgver.zip"
 download="$url/$pkgver/$package"
-md5sum="a0a495d9033b337ecdd49d9842acc33a"
+md5sum="9989bff0e93787f423fed818065014b3"
 
 # check for necessary commands
 for i in "unzip" "md5sum" "curl" "java"
